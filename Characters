@@ -73,18 +73,18 @@ Luck = 5
 
 ]
 
-Human06 = [
+Human06 = [ M
 
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
+Strength = 6
+Perception = 9
+Endurance =7
+Intellect = 8
+Wisdom =7
+Willpower = 8
+Charisma = 8
+Agility = 7
+integrity = 8
+Luck = 8
 
 ]
 
@@ -120,16 +120,18 @@ Luck = 6
 
 Human09 = [ F
 
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
+Strength = 5
+Perception = 7
+Endurance = 5
+Intellect = 9
+Wisdom = 8
+Willpower = 5
+Charisma = 5
+Agility = 5
+integrity = 7
+Luck = 7
+
+]
 
 ]
 
