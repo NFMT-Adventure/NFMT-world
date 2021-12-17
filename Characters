@@ -1,75 +1,75 @@
-Human01 = [
+Human01 = [ M
 
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
-
-]
-
-Human02 = [
-
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
+Strength = 5
+Perception = 1
+Endurance = 3
+Intellect = 8
+Wisdom = 5
+Willpower = 5
+Charisma = 9
+Agility = 1
+integrity = 9
+Luck = 3
 
 ]
 
-Human03 = [
+Human02 = [ M
 
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
-
-]
-
-Human04 = [
-
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
+Strength = 7
+Perception = 4
+Endurance = 5
+Intellect = 4
+Wisdom = 4
+Willpower = 2
+Charisma = 8
+Agility = 2
+integrity = 9
+Luck = 7
 
 ]
 
-Human05 = [
+Human03 = [ F
 
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
+Strength = 6
+Perception = 5
+Endurance = 5
+Intellect = 5
+Wisdom = 3
+Willpower = 5
+Charisma = 8
+Agility = 4
+integrity = 8
+Luck = 4
+
+]
+
+Human04 = [ M
+
+Strength = 5
+Perception = 6
+Endurance = 5
+Intellect = 3
+Wisdom = 1
+Willpower = 7
+Charisma = 6
+Agility = 6
+integrity = 5
+Luck = 8
+
+]
+
+Human05 = [ F
+
+Strength = 4
+Perception = 4
+Endurance = 9
+Intellect = 0
+Wisdom = 7
+Willpower = 7
+Charisma = 7
+Agility = 3
+integrity = 8
+Luck = 5
 
 ]
 
@@ -88,7 +88,37 @@ Luck =
 
 ]
 
-Human07 = [
+Human07 = [ M
+
+Strength = 7
+Perception = 8
+Endurance = 7
+Intellect = 8
+Wisdom = 9
+Willpower = 7
+Charisma = 9
+Agility = 8
+integrity = 8
+Luck = 7
+
+]
+
+Human08 = [ M
+
+Strength = 8
+Perception = 6
+Endurance = 5
+Intellect = 6
+Wisdom = 7
+Willpower = 5
+Charisma = 2
+Agility = 2
+integrity = 3
+Luck = 6
+
+]
+
+Human09 = [ F
 
 Strength = 
 Perception = 
@@ -103,47 +133,17 @@ Luck =
 
 ]
 
-Human08 = [
+Human10 = [ M
 
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
-
-]
-
-Human09 = [
-
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
-
-]
-
-Human10 = [
-
-Strength = 
-Perception = 
-Endurance =
-Intellect = 
-Wisdom =
-Willpower = 
-Charisma = 
-Agility =
-integrity =
-Luck =
+Strength = 8
+Perception = 3
+Endurance = 6
+Intellect = 5
+Wisdom = 10
+Willpower = 6
+Charisma = 7
+Agility = 4
+integrity = 2
+Luck = 6
 
 ]
