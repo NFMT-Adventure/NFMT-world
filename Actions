@@ -4,8 +4,8 @@ Chopping logs into planks (Requires sawmill) (requires functioning hand) 5m per 
 Chopping logs into rough planks (requires saw) (requires functioning hand) 30m per plank
 Fishing (Requires fishing rod with line, reel, hook and bait) (requires functioning hand) [if there are fishes within 3 meters of your casted line there's a 
 50% chance they'll bite for each 3 minutes that go by, if they bite there's a 25% chance they'll get hooked and a 5% chance they'll break free]
-Looking for worms (requires a sturdy stick or another tool capable of digging) [By turning rocks there's a 20% chance you'll find a worm, by digging there's a 5% chance you'll
-find a worm]
+Looking for worms (requires a sturdy stick or another tool capable of digging) [By turning rocks there's a 20% chance you'll find a worm, by digging there's a 5% chance 
+you'll find a worm]
 Digging (requires a sturdy stick or another tool capable of digging) (requires functioning hand) [creates a shallow or deep hole]
 Pick up object (requires functioning hand) [allows you to pick up objects according to your strenght]
 Place down object (requires functioning hand) [allows you to drop objects near you]
@@ -13,3 +13,11 @@ Skin animal (requires functioning hand) (knife) [allows you to skin an animal an
 Gut fish (hand)(knife) [allows you to gut a fish, makes it ready to cook]
 Eat (food)
 Drink (fluid)
+Attack
+Sneak
+Dodge
+Walk
+Run
+Jump
+Fall
+Plan
