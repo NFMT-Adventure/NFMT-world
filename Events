@@ -6,3 +6,20 @@ Rain
 Entity migration
 Infection
 Fog
+Sickness [being wet for more than an hour has a 10% chance of making you sick being wet for more than 2 hours has a 15% chance of making you sick]
+Sickness [being wet for more than 3 hours has a 20% chance of making you sick being wet for more than 4 hours has a 40% chance of making you sick
+Sickness [being wet for more than 5 hours has a 50% chance of making you sick being wet for more than 6 hours has a 60% chance of making you sick
+Sickness [being wet for more than 7 hours has a 80% chance of making you sick being wet for more than 8 hours has a 97% chance of making you sick
+Sickness [having your feet wet for 6+ hours has a 7% chance of having you develop trench foot.
+Sickness [having your feet wet for 7+ hours has a 10% chance of having you develop trench foot.
+Sickness [having your feet wet for 8+ hours has a 13% chance of having you develop trench foot.
+Sickness [having your feet wet for 9+ hours has a 26% chance of having you develop trench foot.
+Sickness [having your feet wet for 10+ hours has a 32% chance of having you develop trench foot.
+Sickness [having your feet wet for 11+ hours has a 38% chance of having you develop trench foot. 
+Sickness [having your feet wet for 12+ hours has a 44% chance of having you develop trench foot.
+Sickness [having your feet wet for 13+ hours has a 88% chance of having you develop trench foot.
+Sickness [having your feet wet for 14+ hours has a 97% chance of having you develop trench foot.
+Injury [Falling trees has a 1.3% chance of causing a minor or major injury.]
+Injury [Mining has a 2.6% chance of causing a minor or major injury.]
+Tragedy [Swimming has a 1% chance of making you drown]
+Encounter [Black bear If a black bear is on the same grid as you there's a 10% chance of encountering him.]
