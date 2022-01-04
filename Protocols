@@ -2,5 +2,5 @@ Before sending humans into the NFMT world add a chip to their right ear
 Keep track of each human on the overworld
 If a delivery man or another Admin entity is murdered or robbed send the revenger of blood after him to retrieve the stolen goods and punish the culprit 
 If a human doesn't move for a day send a delivery man to check on him. 
-The day after a new mechanic is implemented Admin_Postman entities are sent to inform the Human characters about it, the start with the humans closest to them and keep on moving 
-to the ones that are further away until they inform all of this new mechanic. 
+The day after a new mechanic is implemented Admin_Postman entities are sent to inform the Human characters about it, the start with 
+the humans closest to them and keep on moving to the ones that are further away until they inform all of this new mechanic. 
