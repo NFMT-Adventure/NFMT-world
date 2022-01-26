@@ -5,7 +5,7 @@ Brake bone_injury
 Rain
 Entity migration
 Infection
-Fog
+Fog [Reduces visibility by 50%]
 Sickness [being wet for more than an hour has a 10% chance of making you sick being wet for more than 2 hours has a 15% chance of making you sick]
 Sickness [being wet for more than 3 hours has a 20% chance of making you sick being wet for more than 4 hours has a 40% chance of making you sick
 Sickness [being wet for more than 5 hours has a 50% chance of making you sick being wet for more than 6 hours has a 60% chance of making you sick
@@ -23,3 +23,12 @@ Injury [Falling trees has a 1.3% chance of causing a minor or major injury.]
 Injury [Mining has a 2.6% chance of causing a minor or major injury.]
 Tragedy [Swimming has a 1% chance of making you drown]
 Encounter [Black bear If a black bear is on the same grid as you there's a 10% chance of encountering him.]
+Spawn_Animal [If character access new grid 10% chance of spawning chicken]
+Spawn_Animal [If character access new grid 1% chance of spawning cow]
+Spawn_Animal [If character access new grid 5% chance of spawning pig]
+Spawn_Animal [If character access new grid 15% chance of spawning racoon]
+Spawn_Animal [If character access new grid 10% chance of spawning chicken]
+Spawn_Plant [If character access new grid 3% chance of spawning bamboo if in forest]
+Spawn_Plant [If character access new grid 5% chance of spawning wild carrot]
+Spawn_Plant [If character access new grid 5% chance of spawning wild potato]
+Spawn_Plant [If character access new grid 5% chance of spawning wild wheat]
